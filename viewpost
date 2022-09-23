@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+
+    <link rel="icon" href="https://sfsu.instructure.com/users/79266/files/1029224/preview?instfs=true">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>a website :O - post viewing</title>
+  	<meta charset="uft-8">
+    <h1> view posts </h1>
+    
+  </head>
+  
+  <nav>
+  
+  	<a href="Index.html">home</a>
+  	<a href="login.html">login</a>
+    <a href="registration.html">registration</a>
+  	<a href="postimage.html">post</a>
+  	<a href="viewpost.html">view posts</a>
+
+ 
+  </nav>
+
+
+  <body>
+
+    <h2> please fill out the information below to register your account </h2>
+    
+    <h3>POST TITLE</h3>
+    <img src="https://i.postimg.cc/j2PbjLQB/IMG-4245.png" width="300" height= "300" alt="IMAGE ERROR oops">
+    <h4>time: author</h4>
+    <p>description</p>
+    
+  </body>
+  
+  <footer>
+  	
+    <p>contact us @ contactus@gmail.com</p>
+  </footer>
+  
+</html>
